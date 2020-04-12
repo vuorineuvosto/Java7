@@ -1,0 +1,2 @@
+rootProject.name='bottledispenser'
+include ':app'
